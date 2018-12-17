@@ -273,7 +273,7 @@ $ npm start
 
 This is probably by far the most complicated "Hello World" setup you've ever done. Well, if a "Hello World" application would have been our end-game, then all of the above has been a waste of time. What we've done so far, is to lay out the groundwork for out React application that we are going to build. Our hard work has not been in vain. Also, there's tons of more to React than this. Trust me.
 
-## No quite there yet...
+## Not quite there yet...
 
 We are not quite done with our Hello World yet. I know, how long can we push this before we get into "real" development? Well, I would like us to do a little bit of refactoring so that we can showcase at least a bit of functionality that showcase the power of React. 
 
